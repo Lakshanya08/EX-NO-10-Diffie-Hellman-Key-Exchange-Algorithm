@@ -44,6 +44,5 @@ print("Secret Key (Bob)   =", secret_key_bob)
 <img width="577" height="262" alt="image" src="https://github.com/user-attachments/assets/a90a061e-c1c9-40b1-9b2a-751f98c4d431" />
 
 ## Result:
-The Program is executed Successfully.
-  The program is executed successfully
+The program is executed successfully
 
